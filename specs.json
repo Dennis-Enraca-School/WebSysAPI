@@ -1,0 +1,15 @@
+{
+    "userID": "PC-001",
+    "cpu": "Intel Core i7-13700K",
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "ram": "32GB DDR5 6000MHz",
+    "storage": {
+        "ssd": "1TB NVMe M.2",
+        "hdd": "2TB 7200RPM"
+    },
+    "motherboard": "ASUS ROG Strix Z790-E",
+    "psu": "750W 80+ Gold",
+    "cooling": "Corsair H100i RGB Liquid Cooler",
+    "os": "Windows 11 Pro"
+}
+    
