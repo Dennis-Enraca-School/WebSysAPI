@@ -1,0 +1,18 @@
+{
+    "id" : 1,
+    "name" : "John Doe",
+    "email" : "sample@grc.com",
+    "phone" : "(+639) 955 1551",
+    "address" : {
+        "street": "122 Main St", 
+        "city": "Anytown", 
+        "state": "CA", 
+        "zip": "30145"
+    },
+    "company" : {
+        "name": "Tech Solutions",
+        "position": "Tech Solutions",
+        "department": "Tech Solutions"
+    }
+
+}
