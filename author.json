@@ -22,9 +22,16 @@
     },
       {
         "id": 4,
-        "title": "Ang sarap mo pia",
-        "author": "Mike Enriquez",
+        "title": "The uniteam love story",
+        "author": "Andrew E.",
         "genre": "Romance",
-        "available": false
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "Primewater Legacy",
+        "author": "Camille Villar",
+        "genre": "Life Story",
+        "available": true
     }
 ]
