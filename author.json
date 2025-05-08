@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gastby",
+        "author": "F, Scott Fitzgerald",
+        "genre": "Classic",
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "To",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "available": false
+    }
+]
