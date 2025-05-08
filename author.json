@@ -12,5 +12,19 @@
         "author": "Harper Lee",
         "genre": "Fiction",
         "available": false
+    },
+      {
+        "id": 3,
+        "title": "Ang aking kaibigan",
+        "author": "Sarah Duterte",
+        "genre": "Unknown",
+        "available": false
+    },
+      {
+        "id": 3,
+        "title": "Ang sarap mo pia",
+        "author": "Mike Enriquez",
+        "genre": "Romance",
+        "available": false
     }
 ]
