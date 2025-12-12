@@ -6,16 +6,15 @@
         "date": "12-01-25",
         "transactions": [
             {
-              "transaction_id" : 1,
+                "transaction_id": 1
             },
             {
-              "transaction_id" : 2,
-            },
-        ] ,
-        
-        "title": "The Great Gastby",
-        "author": "F, Scott Fitzgerald",
+                "transaction_id": 2
+            }
+        ],
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
         "genre": "Classic",
         "available": true
-    },
+    }
 ]
