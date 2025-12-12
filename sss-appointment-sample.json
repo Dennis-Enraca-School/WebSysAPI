@@ -1,16 +1,21 @@
 [
     {
-        "id": 1,
+        "appointment_id": 1,
+        "code": "APP-2025-01-0001",
+        "name": "12-01-25",
+        "date": "12-01-25",
+        "transactions": [
+            {
+              "transaction_id" : 1,
+            },
+            {
+              "transaction_id" : 2,
+            },
+        ] ,
+        
         "title": "The Great Gastby",
         "author": "F, Scott Fitzgerald",
         "genre": "Classic",
         "available": true
     },
-    {
-        "id": 2,
-        "title": "To",
-        "author": "Harper Lee",
-        "genre": "Fiction",
-        "available": false
-    }
 ]
