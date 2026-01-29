@@ -2,19 +2,10 @@
     {
         "appointment_id": 1,
         "code": "APP-2025-01-0001",
-        "name": "12-01-25",
-        "date": "12-01-25",
-        "transactions": [
-            {
-                "transaction_id": 1
-            },
-            {
-                "transaction_id": 2
-            }
-        ],
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "genre": "Classic",
-        "available": true
+        "name": "Dennis",
+        "date": "02-01-26",
+        "time": "13:30:00",
+        "transaction_id": 1,
+        "branch_id": 1,
     }
 ]
