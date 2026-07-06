@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "message": "Members retrieved successfully",
+  "data": [
+    {
+      "member_id": "SSS-1000001234",
+      "sss_number": "12-3456789-0",
+      "first_name": "Juan",
+      "middle_name": "Santos",
+      "last_name": "Dela Cruz",
+      "full_name": "Juan Santos Dela Cruz",
+      "birth_date": "1990-05-15",
+      "gender": "male",
+      "email": "juan.delacruz@email.com",
+      "mobile_number": "09171234567",
+      "is_senior": false,
+      "is_pwd": false,
+      "status": "active",
+      "created_at": "2024-01-10T08:30:00Z"
+    },
+    {
+      "member_id": "SSS-1000005678",
+      "sss_number": "98-7654321-0",
+      "first_name": "Maria",
+      "middle_name": "Lopez",
+      "last_name": "Reyes",
+      "full_name": "Maria Lopez Reyes",
+      "birth_date": "1955-09-20",
+      "gender": "female",
+      "email": "maria.reyes@email.com",
+      "mobile_number": "09181234567",
+      "is_senior": true,
+      "is_pwd": false,
+      "status": "active",
+      "created_at": "2023-11-05T10:15:00Z"
+    },
+    {
+      "member_id": "SSS-1000009999",
+      "sss_number": "11-2233445-6",
+      "first_name": "Pedro",
+      "middle_name": "Garcia",
+      "last_name": "Torres",
+      "full_name": "Pedro Garcia Torres",
+      "birth_date": "1988-02-11",
+      "gender": "male",
+      "email": "pedro.torres@email.com",
+      "mobile_number": "09191234567",
+      "is_senior": false,
+      "is_pwd": true,
+      "status": "active",
+      "created_at": "2024-02-18T14:45:00Z"
+    }
+  ]
+}
